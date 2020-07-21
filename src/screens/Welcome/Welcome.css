@@ -1,0 +1,12 @@
+.container {
+    height: 200px;
+}
+.welcome {
+    font-size: 40px;   
+}
+.buttons-holder {
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+    justify-content: space-between;
+}

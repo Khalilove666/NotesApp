@@ -1,0 +1,21 @@
+.container {
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.title-txt {
+    font-size: 40px;   
+}
+.form {
+    display: flex;
+    flex-direction: column;
+    height: 100px;
+    justify-content: space-between;
+}
+
+.error-msg {
+    color: red;
+    font-size: 10px;
+}

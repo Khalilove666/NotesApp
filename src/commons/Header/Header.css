@@ -1,0 +1,55 @@
+.header {
+    width: 100%;
+    height: 150px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 200px;
+    margin-right: 100px;
+}
+.btn-home {
+    border: 1px solid lightcoral;
+    border-radius: 3px;
+    padding: 10px 20px;
+    margin-left: 100px;
+    text-decoration: none;
+}
+
+.btn-login {
+    border: 1px solid lightcoral;
+    border-radius: 3px;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+.btn-register {
+    border: 1px solid lightcoral;
+    border-radius: 3px;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+.mob-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 130px;
+}
+.mob-header-nav {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.mob-btn-home {
+    border: 1px solid lightcoral;
+    border-radius: 3px;
+    padding: 10px 20px;
+    text-decoration: none;
+}

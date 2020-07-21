@@ -1,0 +1,85 @@
+.notes-header {
+    /* border: 2px solid black; */
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo-holder {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    text-decoration: none;
+    color: black;
+}
+
+.logo{
+    width: 50px;
+    margin-left: 30px;
+}
+.logo-text {
+    margin-left: 10px;
+}
+
+.links-holder {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.actual {
+    border: 2px solid black;
+    font-size: 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-right: 30px;
+    padding: 0 5px;
+}
+.archive {
+    border: 2px solid black;
+    font-size: 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-right: 30px;
+    padding: 0 5px;
+}
+.create {
+    border: 2px solid black;
+    font-size: 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-right: 30px;
+    padding: 0 5px;
+}
+
+.vertical-lines {
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    margin-right: 30px;
+    padding: 0 5px;
+}
+
+.main-holder {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.user-holder {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.user-name {
+    font-size: 20px;
+    margin-right: 10px;
+}
+.btn-out {
+    margin-right: 20px;
+    border: none;
+    background-color: #fff;
+}
