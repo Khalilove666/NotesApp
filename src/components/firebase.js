@@ -4,14 +4,14 @@ import 'firebase/firebase-firestore';
 import firebase from 'firebase';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyAwEV4CqB4VgcbMiiK3qTBAT5PcokYOU8U",
+    apiKey: "empty",
   	authDomain: "notesapp-f14c0.firebaseapp.com",
   	databaseURL: "https://notesapp-f14c0.firebaseio.com",
-  	projectId: "notesapp-f14c0",
-  	storageBucket: "notesapp-f14c0.appspot.com",
-  	messagingSenderId: "445573759972",
-  	appId: "1:445573759972:web:637db9b67ab3daf3497df1",
-  	measurementId: "G-K5RLE3YQ1M"
+  	projectId: "empty",
+  	storageBucket: "empty",
+  	messagingSenderId: "empty",
+  	appId: "empty",
+  	measurementId: "empty"
 
   };
 
